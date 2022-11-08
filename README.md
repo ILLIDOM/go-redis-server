@@ -5,3 +5,6 @@
 # Resources
 - https://app.codecrafters.io/courses/redis
 - https://redis.io/docs/reference/protocol-spec/
+
+# Test Cases
+- https://github.com/codecrafters-io/redis-tester
